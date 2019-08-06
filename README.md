@@ -1,0 +1,6 @@
+echo "# react_todo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/stellaywu/react_todo.git
+git push -u origin master
