@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/scala-for-spark" value="1498081370000" />
+        <entry key="$USER_HOME$/IdeaProjects/example" value="1459534374000" />
+        <entry key="$USER_HOME$/IdeaProjects/funsets" value="1462334240000" />
+        <entry key="$USER_HOME$/IdeaProjects/objsets" value="1462337246000" />
+        <entry key="$USER_HOME$/IdeaProjects/project1" value="1489717447000" />
+        <entry key="$USER_HOME$/IdeaProjects/recfun" value="1462387130000" />
+        <entry key="$USER_HOME$/IdeaProjects/stackoverflow" value="1490294802000" />
+        <entry key="$USER_HOME$/IdeaProjects/wikipedia" value="1489949850000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
